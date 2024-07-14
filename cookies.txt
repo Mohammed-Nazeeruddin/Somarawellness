@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+somarawellness.com	TRUE	/	FALSE	1999999999	PHPSESSID	f52285033942a36a0c10aa5ff27fb307
+somarawellness.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+

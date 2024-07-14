@@ -1,0 +1,90 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 14 Jul 2024 21:24:17 at https://somarawellness.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://somarawellness.com/ -O1 "D:\Somara Wellness" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:27:02	Warning: 	Moved Permanently for https://somarawellness.com/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='2' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0
+21:27:02	Warning: 	File has moved from https://somarawellness.com/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='2' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 to https://somarawellness.com/%22data:image/svg+xml,%3Csvg%20xmlns=http:/www.w3.org/2000/svg%20preserveAspectRatio=none%20overflow=visible%20height=100%%20viewBox=0%200%2020%2016%20fill=none%20stroke=black%20stroke-width=2%20stroke-linecap=square%20stroke-miterlimit=10%3E%3Cg%20transform=translate(-12.000000,%200
+21:27:08	Warning: 	Moved Permanently for https://somarawellness.com/author/saurabhgmbagmail-com/
+21:27:08	Warning: 	File has moved from https://somarawellness.com/author/saurabhgmbagmail-com/ to https://somarawellness.com
+21:27:38	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/themes/customify/assets/images/icons/credit-cards/visa.svg (from https://somarawellness.com/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css?ver=8.1.1)
+21:27:38	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/themes/customify/assets/images/icons/credit-cards/mastercard.svg (from https://somarawellness.com/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css?ver=8.1.1)
+21:27:38	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/themes/customify/assets/images/icons/credit-cards/laser.svg (from https://somarawellness.com/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css?ver=8.1.1)
+21:27:38	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/themes/customify/assets/images/icons/credit-cards/diners.svg (from https://somarawellness.com/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css?ver=8.1.1)
+21:27:38	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/themes/customify/assets/images/icons/credit-cards/maestro.svg (from https://somarawellness.com/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css?ver=8.1.1)
+21:27:38	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/themes/customify/assets/images/icons/credit-cards/jcb.svg (from https://somarawellness.com/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css?ver=8.1.1)
+21:27:38	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/themes/customify/assets/images/icons/credit-cards/amex.svg (from https://somarawellness.com/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css?ver=8.1.1)
+21:27:38	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/themes/customify/assets/images/icons/credit-cards/discover.svg (from https://somarawellness.com/wp-content/themes/customify/assets/css/compatibility/woocommerce.min.css?ver=8.1.1)
+21:27:41	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/plugins/dethemekit-for-elementor/modules/controls/assets/css/fonts/dticon.eot?7luiwh (from https://somarawellness.com/wp-content/plugins/dethemekit-for-elementor/modules/controls/assets/css/dticon.css?ver=5.9.0)
+21:27:41	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/plugins/dethemekit-for-elementor/modules/controls/assets/css/fonts/dticon.woff?7luiwh (from https://somarawellness.com/wp-content/plugins/dethemekit-for-elementor/modules/controls/assets/css/dticon.css?ver=5.9.0)
+21:27:41	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/plugins/dethemekit-for-elementor/modules/controls/assets/css/fonts/dticon.svg?7luiwh (from https://somarawellness.com/wp-content/plugins/dethemekit-for-elementor/modules/controls/assets/css/dticon.css?ver=5.9.0)
+21:27:41	Error: 	"Not Found" (404) at link https://somarawellness.com/Trident/ (from https://somarawellness.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.16.4)
+21:27:41	Error: 	"Not Found" (404) at link https://somarawellness.com/POST (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+21:27:41	Error: 	"Not Found" (404) at link https://somarawellness.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+21:27:41	Error: 	"Not Found" (404) at link https://somarawellness.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+21:27:41	Error: 	"Not Found" (404) at link https://somarawellness.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+21:27:46	Warning: 	Moved Permanently for https://somarawellness.com/?p=6779
+21:27:46	Warning: 	File has moved from https://somarawellness.com/?p=6779 to https://somarawellness.com/aromatherapy-massage-2/
+21:27:58	Warning: 	Moved Permanently for https://somarawellness.com/?p=7036
+21:27:58	Warning: 	File has moved from https://somarawellness.com/?p=7036 to https://somarawellness.com/balinese-massage-2/
+21:29:05	Warning: 	Moved Permanently for https://somarawellness.com/?p=7054
+21:29:05	Warning: 	File has moved from https://somarawellness.com/?p=7054 to https://somarawellness.com/deep-tissue-massage-2/
+21:29:25	Warning: 	Moved Permanently for https://somarawellness.com/?p=7023
+21:29:25	Warning: 	File has moved from https://somarawellness.com/?p=7023 to https://somarawellness.com/swedish-massage-2/
+21:29:25	Warning: 	Moved Permanently for https://somarawellness.com/?p=5057
+21:29:25	Warning: 	File has moved from https://somarawellness.com/?p=5057 to https://somarawellness.com/reflexology-spa-treatment-in-banjara-hills-hyderabad/
+21:31:09	Warning: 	Moved Permanently for https://somarawellness.com/?p=5856
+21:31:09	Warning: 	File has moved from https://somarawellness.com/?p=5856 to https://somarawellness.com/facials/
+21:31:09	Warning: 	Moved Permanently for https://somarawellness.com/?p=5868
+21:31:09	Warning: 	File has moved from https://somarawellness.com/?p=5868 to https://somarawellness.com/body-scrubs/
+21:31:15	Warning: 	Moved Permanently for https://somarawellness.com/?p=3892
+21:31:15	Warning: 	File has moved from https://somarawellness.com/?p=3892 to https://somarawellness.com/lakdi-ka-pul-outlet/
+21:31:15	Warning: 	Moved Permanently for https://somarawellness.com/?p=5198
+21:31:15	Warning: 	File has moved from https://somarawellness.com/?p=5198 to https://somarawellness.com/mercure-hotel-banjara-hills/
+21:31:15	Error: 	"Not Found" (404) at link https://somarawellness.com/wp-content/uploads/2020/04/welcome6.jpg (from https://somarawellness.com/mercure-hotel-banjara-hills/)
+21:31:15	Warning: 	Moved Permanently for https://somarawellness.com/?p=4938
+21:31:15	Warning: 	File has moved from https://somarawellness.com/?p=4938 to https://somarawellness.com/mla-colony/
+21:31:17	Warning: 	Moved Permanently for https://somarawellness.com/?p=3895
+21:31:17	Warning: 	File has moved from https://somarawellness.com/?p=3895 to https://somarawellness.com/somajiguda-outlet/
+21:31:18	Warning: 	Moved Permanently for https://somarawellness.com/?p=4412
+21:31:18	Warning: 	File has moved from https://somarawellness.com/?p=4412 to https://somarawellness.com/blog-page/
+21:31:20	Warning: 	Moved Permanently for https://somarawellness.com/?p=3847
+21:31:20	Warning: 	File has moved from https://somarawellness.com/?p=3847 to https://somarawellness.com/about-somara/
+21:31:20	Warning: 	Moved Permanently for https://somarawellness.com/?p=6013
+21:31:20	Warning: 	File has moved from https://somarawellness.com/?p=6013 to https://somarawellness.com/book-appointment/
+21:31:20	Error: 	"Method Not Allowed" (405) at link https://somarawellness.com/xmlrpc.php (from https://somarawellness.com/book-appointment/)
+21:31:29	Error: 	"Not Found" (404) at link https://somarawellness.com/%22data:image/svg+xml,%3Csvg xmlns=http:/www.w3.org/2000/svg preserveAspectRatio=none overflow=visible height=100% viewBox=0 0 20 16 fill=none stroke=black stroke-width=2 stroke-linecap=square stroke-miterlimit=10%3E%3Cg transform=translate(-12.000000, 0 (from https://somarawellness.com/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='2' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0)
+21:31:29	Warning: 	Moved Permanently for https://somarawellness.com/?p=5637
+21:31:29	Warning: 	File has moved from https://somarawellness.com/?p=5637 to https://somarawellness.com/healthy-way-of-life-with-somara/
+21:31:44	Warning: 	Moved Permanently for https://somarawellness.com/?p=4822
+21:31:44	Warning: 	File has moved from https://somarawellness.com/?p=4822 to https://somarawellness.com/having-a-headache-spa-at-somara-is-what-you-need/
+21:31:44	Warning: 	Moved Permanently for https://somarawellness.com/?p=4781
+21:31:44	Warning: 	File has moved from https://somarawellness.com/?p=4781 to https://somarawellness.com/spa-an-experience/
+21:31:45	Warning: 	Moved Permanently for https://somarawellness.com/?p=3902
+21:31:45	Warning: 	File has moved from https://somarawellness.com/?p=3902 to https://somarawellness.com/careers/
+21:31:51	Warning: 	Moved Permanently for https://somarawellness.com/?p=3878
+21:31:51	Warning: 	File has moved from https://somarawellness.com/?p=3878 to https://somarawellness.com/corporate-wellness/
+21:31:51	Error: 	"Not Found" (404) at link https://somarawellness.com/Version/ (from https://somarawellness.com/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/swiper-bundle.min.js?ver=1.3.4)
+21:31:51	Error: 	"Not Found" (404) at link https://somarawellness.com/t.params.url (from https://somarawellness.com/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/swiper-bundle.min.js?ver=1.3.4)
+21:31:53	Error: 	"Not Found" (404) at link https://somarawellness.com/-negative.svg (from https://somarawellness.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4)
+21:31:53	Error: 	"Not Found" (404) at link https://somarawellness.com/OPR/ (from https://somarawellness.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4)
+21:31:53	Error: 	"Not Found" (404) at link https://somarawellness.com/edge/ (from https://somarawellness.com/wp-content/plugins/bookingpress-appointment-booking/js/bookingpress_vue.min.js?ver=1.0.72)
+21:31:53	Error: 	"Not Found" (404) at link https://somarawellness.com/post (from https://somarawellness.com/wp-content/plugins/bookingpress-appointment-booking/js/bookingpress_element.js?ver=1.0.72)
+21:31:53	Error: 	"Not Found" (404) at link https://somarawellness.com/dist/ (from https://somarawellness.com/wp-content/plugins/bookingpress-appointment-booking/js/bookingpress_element.js?ver=1.0.72)
+21:31:53	Error: 	"Not Found" (404) at link https://somarawellness.com/window.location.href (from https://somarawellness.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.15.1)
+21:31:58	Error: 	"Not Found" (404) at link https://somarawellness.com/book-appointment/0/0 (from https://somarawellness.com/book-appointment/0/)
+21:31:58	Error: 	"Not Found" (404) at link https://somarawellness.com/book-appointment/0/1 (from https://somarawellness.com/book-appointment/0/)
+21:31:59	Warning: 	Moved Permanently for https://somarawellness.com/?p=4743
+21:31:59	Warning: 	File has moved from https://somarawellness.com/?p=4743 to https://somarawellness.com/spa-its-evolution-and-somara/
+21:31:59	Warning: 	Moved Permanently for https://somarawellness.com/?p=4401
+21:31:59	Warning: 	File has moved from https://somarawellness.com/?p=4401 to https://somarawellness.com/everything-you-need-to-know-about-a-spa-session/
+21:32:06	Warning: 	Moved Permanently for https://somarawellness.com/?p=6015
+21:32:06	Warning: 	File has moved from https://somarawellness.com/?p=6015 to https://somarawellness.com/thank-you/
+21:32:07	Warning: 	Moved Permanently for https://somarawellness.com/?p=1109
+21:32:07	Warning: 	File has moved from https://somarawellness.com/?p=1109 to https://somarawellness.com/my-account/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 50 seconds : 613 links scanned, 558 files written (192065531 bytes overall) [171992519 bytes received at 365941 bytes/sec], 30728840 bytes transferred using HTTP compression in 399 files, ratio 27%, 9.1 requests per connection
+(29 errors, 50 warnings, 0 messages)
